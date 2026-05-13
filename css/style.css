@@ -201,7 +201,9 @@ body {
 .contenido {
     padding: 20px;
 }
-
+.titulo-seccion{
+    color: var(--color-azul);
+}
 .subtitulo-dorado {
     display: inline-block;
     font-size: 13px;
