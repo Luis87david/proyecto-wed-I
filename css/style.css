@@ -201,9 +201,7 @@ body {
 .contenido {
     padding: 20px;
 }
-.titulo-seccion{
-    color: var(--color-azul);
-}
+
 .subtitulo-dorado {
     display: inline-block;
     font-size: 13px;
@@ -1389,4 +1387,7 @@ body {
     .logro-card h3 {
         font-size: 1rem;
     }
+}
+.titulo-seccion{
+    color: var(--color-azul);
 }
